@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Jesper3d2Assignment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  compilation object save succeeded; see C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx11\JesperHelloTriangleDx11\JesperHelloTriangleDx11\trianglePixelShader.cso
+  compilation object save succeeded; see C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx11\JesperHelloTriangleDx11\JesperHelloTriangleDx11\triangleVertexShader.cso
+  Main.cpp
+  Renderer.cpp
+  Triangle.cpp
+  Window.cpp
+  Generating Code...
+  JesperHelloTriangleDx11.vcxproj -> C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx11\JesperHelloTriangleDx11\x64\Debug\JesperHelloTriangleDx11.exe

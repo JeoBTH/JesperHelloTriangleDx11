@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx11\JesperAssignmentD11\Jesper3d2Assignment\x64\Debug\Jesper3d2Assignment.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx11\JesperAssignmentD11\Jesper3d2Assignment\Jesper3d2Assignment\trianglePixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx11\JesperAssignmentD11\Jesper3d2Assignment\Jesper3d2Assignment\triangleVertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

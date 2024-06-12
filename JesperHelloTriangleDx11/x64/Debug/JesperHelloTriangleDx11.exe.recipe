@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx11\JesperHelloTriangleDx11\x64\Debug\JesperHelloTriangleDx11.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx11\JesperHelloTriangleDx11\JesperHelloTriangleDx11\trianglePixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx11\JesperHelloTriangleDx11\JesperHelloTriangleDx11\triangleVertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
